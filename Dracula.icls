@@ -939,8 +939,8 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="6d7641" />
-        <option name="ERROR_STRIPE_COLOR" value="b56277" />
+        <option name="BACKGROUND" value="44475a" />
+        <option name="ERROR_STRIPE_COLOR" value="ff5555" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>

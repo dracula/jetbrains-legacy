@@ -1,8 +1,10 @@
 <scheme name="Dracula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="44475a" />
@@ -23,7 +25,6 @@
         <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
@@ -211,7 +212,6 @@
         <option name="FOREGROUND" value="ffb86c" />
       </value>
     </option>
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="6272a4" />
@@ -393,7 +393,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="50fa7b" />
@@ -549,7 +548,6 @@
         <option name="BACKGROUND" value="242632" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_ENUM_ENTRY">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
@@ -709,7 +707,6 @@
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="50fa7b" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.DOC_COMMENT">
@@ -721,11 +718,12 @@
     <option name="PY.DOC_COMMENT_TAG">
       <value>
         <option name="FOREGROUND" value="f1fa8c" />
-        <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="c5ce71" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PY.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
@@ -736,6 +734,8 @@
         <option name="FOREGROUND" value="8be9fd" />
       </value>
     </option>
+    <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
     <option name="PY.STRING.U">
       <value>
         <option name="FOREGROUND" value="f1fa8c" />
@@ -982,7 +982,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="TAG_ATTR_KEY">
       <value>
         <option name="FOREGROUND" value="50fa7b" />
@@ -1019,7 +1018,6 @@
         <option name="FOREGROUND" value="cd4848" />
       </value>
     </option>
-    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Valid string escape">
       <value>
         <option name="FOREGROUND" value="f1fa8c" />

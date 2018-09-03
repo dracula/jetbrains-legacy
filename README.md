@@ -19,7 +19,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 [![João Pedro Evangelista](https://avatars0.githubusercontent.com/u/5256711?v=3&s=70)](https://github.com/joaoevangelista) |
 --- |
-[João Pedro Evangelista](https://github.com/joaoevangelista) |
+[João Pedro Evangelista](https://github.com/sleepiejohn) |
 
 ## License
 

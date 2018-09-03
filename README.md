@@ -10,7 +10,8 @@ All instructions can be found at [draculatheme.com/jetbrains](https://draculathe
 
 ### Note
 
-If you are interested in having a purple theme to match the syntax theme, take a look at the [Material Theme Jetbrains](https://github.com/mallowigi/material-theme-jetbrains-eap) with the Palenight variant available on it.
+If you are interested in having a matching UI theme, take a look at the [Theme Bundle]
+(https://github.com/mallowigi/dracula-theme-jetbrains).
 
 ## Team
 

@@ -1,8 +1,19 @@
 <scheme name="Dracula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.5" />
-  <option name="LINE_SPACING" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-10-02T08:22:28</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2018.2.3.0.0</property>
+    <property name="modified">2018-10-02T08:22:45</property>
+    <property name="originalScheme">Dracula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="mononoki" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="44475a" />
@@ -23,7 +34,6 @@
         <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
@@ -193,7 +203,7 @@
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="8be9fd" />
+        <option name="FOREGROUND" value="bd93f9" />
       </value>
     </option>
     <option name="CSS.PSEUDO">
@@ -227,9 +237,7 @@
       </value>
     </option>
     <option name="DEFAULT_COMMA">
-      <value>
-        <option name="FOREGROUND" value="ff79c6" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
@@ -259,11 +267,6 @@
     <option name="DEFAULT_DOC_MARKUP">
       <value>
         <option name="FOREGROUND" value="7282b7" />
-      </value>
-    </option>
-    <option name="DEFAULT_DOT">
-      <value>
-        <option name="FOREGROUND" value="ff79c6" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -319,9 +322,7 @@
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
-      <value>
-        <option name="FOREGROUND" value="f8f8f2" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
@@ -423,11 +424,7 @@
       </value>
     </option>
     <option name="HTML_CODE">
-      <value>
-        <option name="FOREGROUND" value="f8f8f2" />
-        <option name="BACKGROUND" value="282a36" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
+      <value />
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
@@ -442,8 +439,7 @@
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="242632" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="847e76" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -473,9 +469,7 @@
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="8be9fd" />
-      </value>
+      <value />
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
       <value>
@@ -486,8 +480,7 @@
     </option>
     <option name="JS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="8be9fd" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="ff79c6" />
       </value>
     </option>
     <option name="JS.PARAMETER">
@@ -552,6 +545,11 @@
         <option name="FOREGROUND" value="bd93f9" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
@@ -561,9 +559,7 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="8be9fd" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -630,7 +626,6 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f1fa8c" />
         <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>

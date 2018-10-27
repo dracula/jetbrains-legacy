@@ -103,12 +103,12 @@
     </option>
     <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff5555" />
+        <option name="FOREGROUND" value="ff79c6" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e64747" />
+        <option name="FOREGROUND" value="ff79c6" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
@@ -123,12 +123,12 @@
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff79c6" />
+        <option name="FOREGROUND" value="ff5555" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e356a7" />
+        <option name="FOREGROUND" value="e64747" />
       </value>
     </option>
     <option name="CONSOLE_SELECTED_PARAMETER">
@@ -149,12 +149,12 @@
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffb86c" />
+        <option name="FOREGROUND" value="f1fa8c" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="efa554" />
+        <option name="FOREGROUND" value="f1fa8c" />
       </value>
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">

@@ -10,8 +10,7 @@ All instructions can be found at [draculatheme.com/jetbrains](https://draculathe
 
 ### Note
 
-If you are interested in having a matching UI theme, take a look at the [Theme Bundle]
-(https://github.com/mallowigi/dracula-theme-jetbrains).
+[Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) as of `3.0.0` or greater bundles with Dracula scheme and whole IDE theme based on the scheme.
 
 ## Team
 
